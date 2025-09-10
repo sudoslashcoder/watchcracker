@@ -1,0 +1,9 @@
+Package: com.slash.watchcracker
+Name: watchcracker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: sudoslashcoder
+Author: sudoslashcoder
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
